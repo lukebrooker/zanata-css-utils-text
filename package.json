@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lukebrooker/zanata-css-utils-text/issues"
   },
-  "homepage": "https://github.com/lukebrooker/zanata-css-utils-text"
+  "homepage": "https://github.com/lukebrooker/zanata-css-utils-text",
+  "dependencies": {
+    "suitcss-utils-text": "^0.4.2"
+  }
 }
