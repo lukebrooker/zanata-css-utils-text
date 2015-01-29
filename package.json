@@ -1,0 +1,19 @@
+{
+  "name": "zanata-css-utils-text",
+  "version": "1.0.0",
+  "description": "Text utility for Zanata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/lukebrooker/zanata-css-utils-text"
+  },
+  "author": "Luke Brooker",
+  "license": "LGPL",
+  "bugs": {
+    "url": "https://github.com/lukebrooker/zanata-css-utils-text/issues"
+  },
+  "homepage": "https://github.com/lukebrooker/zanata-css-utils-text"
+}
